@@ -1,5 +1,4 @@
 # JavaScript
-## JavaScript Projects 
 
 
 I would like to share the work in the field of Javascript, all the projects I 
