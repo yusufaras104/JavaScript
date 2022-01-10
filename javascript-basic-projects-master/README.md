@@ -1,20 +1,14 @@
-# JavaScript
+# javascript-basic-projects-master
 
-
-I would like to share the work in the field of Javascript, all the projects I 
-have done with tools such as Vue js, node js will be stored here.
 
 - Java Script
-- ✨Vue js ✨
-- Node js
-- Express js
 
-## Javascript Project Ideas
+## Javascript Projects
 
 - Color Flipper
-- Sounter
-- Review carousel
-- Responsive navbar
+- Counter
+- Reviews
+- Navbar
 - Sidebar
 - Modal
 - FAQ page
